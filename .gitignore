@@ -1,0 +1,4 @@
+# igonore the .mod file
+
+go.sum
+go.mod
